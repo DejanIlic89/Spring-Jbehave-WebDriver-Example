@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>org.jbehave.site</groupId>
 			<artifactId>jbehave-site-resources</artifactId>
-			<version>3.1.1</version>
+			<version>3.4.1</version>
 			<type>zip</type>
 		</dependency>
 		<dependency>
@@ -144,7 +144,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
