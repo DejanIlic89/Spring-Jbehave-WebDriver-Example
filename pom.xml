@@ -24,12 +24,12 @@
 		<dependency>
 			<groupId>org.jbehave</groupId>
 			<artifactId>jbehave-spring</artifactId>
-			<version>3.7.5</version>
+			<version>5.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jbehave</groupId>
 			<artifactId>jbehave-core</artifactId>
-			<version>3.7.5</version>
+			<version>5.0</version>
 			<classifier>resources</classifier>
 			<type>zip</type>
 		</dependency>
@@ -42,7 +42,7 @@
 		<dependency>
 			<groupId>org.jbehave</groupId>
 			<artifactId>jbehave-maven-plugin</artifactId>
-			<version>3.7.5</version>
+			<version>5.0</version>
 			<type>maven-plugin</type>
 		</dependency>
 		<dependency>
@@ -144,7 +144,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
